@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<div class="Header">Header
-<a href="home.do">홈으로</a>
-<a href="admin.do">관리자화면으로</a>
-</div>
-
+<h1>ADMIN PAGE tiles 적용 완료</h1>
 </body>
 </html>
